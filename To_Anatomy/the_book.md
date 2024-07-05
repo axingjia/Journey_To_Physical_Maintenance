@@ -49,4 +49,7 @@ List
 * **Caudial** and **inferior** refer to a structure being closer to the feet or the lower part of the body than another structure in the body. These terms are not used with respect to the limbs. In quadrupeds, caudial clsoer to the tail.
 * The  term **superficial** is synonymous with external, the term **deep** with internal. Related to the reference point on the chest wall, a structure closer to the surface of the body is superficial; a structure farther away from the surface is deep.
 * **Ipsilateral** means "on the same side" (in this case, as the reference point); **contralateral** means "on the opposite side" (of the reference point).
-* The **quadruped** presents four points of direction; head and (cranial), tail end (caudal), belly side (ventral), and back side (dorsal). 
+* The **quadruped** presents four points of direction; head and (cranial), tail end (caudal), belly side (ventral), and back side (dorsal).
+
+
+
