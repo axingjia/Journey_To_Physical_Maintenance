@@ -52,4 +52,84 @@ List
 * The **quadruped** presents four points of direction; head and (cranial), tail end (caudal), belly side (ventral), and back side (dorsal).
 
 
+## Orientation of the body: Systems of the Body (1)
+* Collections of similar cells constitute tissues. The four basic tissues are integrated into body wall and visceral structures/organs. A **system** is a collection of organs and structures sharing a common function. Organs and structures of a single system occupy diverse regions in the body and are not necessarily grouped together.
+* The **skeletal system** consists of bones and the ligaments that secure the bones at joints.
+* The **articular system** comprises both fixed and movable joints.
+* The **muscular system** includes the skeletal muscles that moves the skeleton, the face, and other structures, and give form to the body; cardiac muscle pumps blood through the heart; smooth muscle moves the contents of viscera, vessels, and glands, and also moves the hair on skin.
+* The **cardiovascular system** consists of the four-chambered heart; arteries conducting blood to the tissues; capiliaries through which nutrients, gases, and molecular material pass to and from the tissues; and veins returning blood from the tissues to the heart.
+* The **lymphatic system** is a system of vessels assisting the veins in recovering the body's tissue fluids and returning them to the heart. Lymph nodes filter lymph through the body.
+* The **nervous system** consists of impulse-generating/-conducting tissue organized into a central nervous system (brain and spinal cord) and a peripheral nervous system (nerves). The Peripheral nervous system includes the visceral (autonomic) nervous system, which is involved in involuntary "fight or flight" and vegetative functions.
+* The **endocrine system** consists of glands that secrete chemical agents (hormones) into the tissue fluids and blood, affecting the function of multiple areas of the body--not the least of which is the brain. Hormones help maintain balanced metabolic functions in many of the body's systems.
+* The **integumentary system** consists of the skin, which is provided with many glands, sensory receptors, vessels, immune cells, antibodies, and layers of cells and keratin that resist environmental factors harmful to the body.
 
+List
+* Skill
+* Join capsule
+* Rib cage
+* Vertebral column
+* Ligament
+* Smooth muscle of viscus
+* Heart muscle
+* Heart
+* Vein
+* Artery
+* Thoracic duct
+* Lymph node
+* Lymph vessel
+* Brain
+* Nerve
+* Spinal cord
+* Cauda equina
+* Pineal
+* Hypophysis
+* Thyroid
+* Thymus
+* Adrenal
+* Islets
+* Ovary
+* Testis
+
+
+===
+
+## Orientation to the Body: System of the Body
+* The **respiratory system** consists of the upper (nose through larynx) and lower respiratory (trachea through the air spaces of the lungs). Most of the tract is airway; only the air spaces (alveoli) and very small bronchioles exchange gases between alveoli and the lung capillaries.
+* The **digestive system** consists of an alimentary canal and glands. It performs the breakdown, digestion, and assimilation of food as well as excretion of the residua. Glands include the liver, the pancreas, and the biliary system (gallbladder and related ducts).
+* The **urinary system** is responsible for the conservation of water and maintenance of a neutral acid-base balance in the body fluids. The kidneys are the main functionaries of this system; residual fluid (urine) is excreted through ureters t othe urinary bladder for retention and discharged to the outside through the urethra.
+* The **immune/lymphoid system** consists of multiple organs involved in body defence. This system includes a diffuse arrangement of immune-related cells throughout the body; these cells resist invasive microorganisms and remove damaged or otherwise abnormal cells.
+* The **female reproductive system** secretes sex hormones, produces and transports germ cells (ova), receives and transports male germ cells to the fertilization site, maintains the developing embryo/fetus, and sustain the fetus until birth.
+* The **male reproductive system** secretes male sex hormones, forms and maintains germ cell (sperm), and transports germ cells to the female genital tract.
+
+List
+* Nasal cavity
+* Larynx
+* Trachea
+* Lungs
+* Diaphragm
+* Salivary gland
+* Esophagus
+* Liver
+* Gastrointestinal tract
+* Kidney
+* Ureter
+* Urinary bladder
+* Urethra
+* Microglia
+* Tonsil
+* Thymus
+* Lungs
+* Lymph nodes
+* Spleen
+* Kidney
+* Blood vessel
+* Bone marrow
+* Uterine tube
+* Uterus
+* Ovary
+* Vagina
+* Seminal vesicle
+* Ductus deferens
+* Prostate
+* Testis 
+* Urethra/Penis
