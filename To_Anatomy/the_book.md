@@ -133,3 +133,43 @@ List
 * Prostate
 * Testis 
 * Urethra/Penis
+
+## Orientation to the Body: Cavities & Lining
+CLOSED BODY CAVITIES
+* **Closed body cavities** are not open to the outside of the body. Though organs may pass through them or exist in them, their cavities do not open into these closed cavities. Closed body cavities are lined with a membrane.
+* The **cranial cavity** is occupied by the brain and its coverings, cranial nerves, and blood vessels. The **vertebral cavity** houses the spinal cord, its coverings, related vessels, and nerve roots. Both cavities are lined by the **dura mater**, a tough fibrous membrane. The dura mater of the vertebral cavity is continuous with the cranial dura at the foramen magnum.
+* The **theoracic cavity** contains the lungs, heart, and neighboring structures in the chest. Its skeletal walls are thoracic vertebrae and ribs posteriorly, the rib anterolaterally, and the sternum and costal cartilages anteriorly. The roof of the cavity is membranous; the floor is the muscular thoracic diaphragm. The middle of the thoracic cavity, called the mediastinum, is a partition packed with structures (e.g., heart). It separates the thoracic cavity into discrete left and right parts that are lined with **pleura*8 and contain the lungs.
+* The **abdominopelvic cavity**, containing the gastrointestinal tract and related glands, the urinary tract, and great numbers of vessels and nerves, has muscular walls anterolaterally, the lower ribs and muscle laterally, and the lumbar and sacral vertebrae and muscles posteriorly. The roof of the abdominal cavity is the thoracic diaphragm. The abdominal and pelvic cavities are continuous with one another. The pelvic cavity, containing the urinary bladder, rectum, reproductive organs, and lower gastrointestinal tract, has muscular walls anteriorly, bony walls laterally, and the sacrum posteriorly. The internal surface of the abdominal wall is lined by a serous membrane, the **peritoneum**, that is continuous with the outer membrane of the abdominal viscera. The serous secretions enable the mobile abdominal viscera to slip and slide frictionlessly during movement.
+
+OPEN VISCERAL CAVITIES
+* **Open visceral cavities** are largely tubular passageways (tracts) of visceral organs that open to the outside of the body, and include the **respiractory tract**, open at the nose and mouth, the **digestive tract** that opesn at both the mouth and the anus, and the **urinary tract** that opens in the perineum at the urethral orifices. These cavities are lined with a mucus-secreting layer (**mucosa)** that is the working tissue of open cavities (providing secretion, absorption, and protection). The mucosa is lined with epithelial cells, and supported by a vascular connective tissue layer and a smooth muscle layer. The male genital tract opens into the lower urinary tract. The femal genital tract opens into the perineum by way of the vagine. Both tracts are lined with mucosae.
+
+LIST
+* Cranial Dura Mater
+* Vertebral Dura Mater
+* Thoracic Pleura
+* Abdominopelvic Peritoneum
+* Thoracic wall
+* Parietal Pleura
+* Visceral Pleura
+* Abdominal wall
+* Mediastinum
+* Parietal peritoneum
+* Visceral peritoneum
+* Foramen magnum
+* Posterior thoracic wall
+* Anterior thoracic wall
+* Respiratory tract
+* Urinary Tract
+* Digestive tract
+* Mucosa
+* Nasal cavity
+* Mediastinum
+* Kidney
+* Urinary bladder
+* Esophagus
+* Stomach 
+* Small intestine
+* Large intestine
+
+
