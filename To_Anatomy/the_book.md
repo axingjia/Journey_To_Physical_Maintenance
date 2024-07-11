@@ -323,3 +323,50 @@ LIST
 ## Muscular System / Upper Limb: Movers of Elbow & Radioulnar Joints
 
 ## Muscular System / Upper Limb: Movers of Wrist & Hand Joints (exteinics)
+
+## Muscular System / Upper Limb: Movers of Hand Joints (intrinsics)
+
+## Muscular System / Upper Limb: Review of Muscles
+
+## Muscular System / Lower Limb: Muscles of the Gluteal Region
+
+## Muscular System / Lower Limb: Muscles of the Posterior Thigh
+
+## Muscular System / Lower Limb: Muscles of the Medial Thigh
+
+## Muscular System / Lower Limb: Muscles of the Anterior Thigh
+
+## Muscular System / Lower Limb: Muscles of the Anterior & Lateral Leg
+
+## Muscular System / Lower Limb: Muscles of the Posterior Leg
+
+## Muscular System / Lower Limb: Muscles of the Foot (Intrinsics)
+
+## Muscular System / Lower Limb: Review of Muscles
+
+## Muscular System: Functional Overview
+
+## Nervous System; Organization
+* The excitable **nervous system** consists of neurons (cell bodies and processes) arranged into a highly integrated central part (**central nervous system** or **CNS** and a more diffuse **peripheral nervous system** or **PNS**). The CNS consists of the brain in the head and the spinal cord in the vertebral column of the torso. The PNS is a vast collection of bundled neuronal processes (nerves) located throughout the body, as well as islands of neuronal cell bodies (ganglia). These neurons are supported by nonconducting neuroglia and a rich blood supply. Neurons of the CNS are inter-connected to form centers (nuclei: gray matter) and long and short axon bundles (tracts: white matter). The brain and spinal cord are packaged in fibrous membranes called meninges.
+* The **brain** is the center sensory awareness and movement (except for spinal reflexes), emotions, rational thought and behavior, foresight and planning, memory, speech, language, and the interpretation of the language.
+* The **spinal cord**, an extension of the brain, begins at the foramen magnum of the skull, traffics in ascending/decending impulses, and is a center for spinal reflexes. It provides motor commands for muscles and is a receiver of sensory input below the head.
+* The PNS consists largely of bundles of sensory and motor axons (nerves) radiating from the brain (**cranial nerves**) and spinal cord (**spinal nerves**), segmentally and bilaterally and reaching to all parts of the body, somatic and visceral, though a highly organized pattern of distribution. **Branches** of spinal nerves are often called peripheral nerves. Nerves conduct all sensations/sensory input from the body to the brain adn spinal cord. Nerves conduct motor commands to all the smooth and skeletal muscles of the body.
+* The **ANS** or autonomic (visceral) nervous system is a subset of ganglia and nerves in the PNS dedicated to muscular activity and glandular secretion in organs with cavities (viscera). That is, the ANS is a motor system only; visceral sensations are conducted to the spinal cord and brain by peripheral nerves in the same manner as somatic structures. There are two divisions of the ANS: 1) the **sympathetic (thoracolumbar) division**, responsible for driving fight or flight activities in which the extremes of function are called upon for the sake of safety and survival; and 2) the **parasympathetic (craniosacral) division**, responsible for maintaining vegetative functions of the respiratory tract, ingestion and digestion of food, and disposal of wastes.
+
+LIST
+* Cerebrum
+* Brainstem
+* Cerebellum
+* Vervical
+* Thoracic
+* Lumbar
+* Sacral
+* Coccygeal
+* Cranial Nerves (12 pair)
+* Spinal Nerves & Branches: Cervical (8), Thoracic (12), Lumbar (5), Sacral (5), Coccygeal (1)
+* Autonomic Nervous System
+* Sympathetic Division
+* Parasympathetic Division
+
+## Nervous System: Functional Classification of Neurons
+* Neurons generally function in one of three modes: 1) sensory (**afferent**, an alternative term meaning conduction of impulses toward a cnter) neurons receive electrochemical impulses from receptors in the body and conduct those impulses to the central nervous system (CNS); 2) motor (**efferent**, an alternative term meaning conduction of impulses away from a center) neurons conduct motor command impulses from the CNS to muscles of the body; or 3) associative. In the latter, neurons form a network of billions of interconnecting cells with extensive interconnecting processes in the CNS, where these "association" neurons work out all the details between simple sensory input and cimplex motor responses.
