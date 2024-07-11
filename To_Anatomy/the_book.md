@@ -172,4 +172,154 @@ LIST
 * Small intestine
 * Large intestine
 
+===
 
+* The cell is the basic unit of living structure in the human organism. A body structure more complex than a cell is a collection of cells (tissues, organs) and their products. The activities of cell constitute the life process. What basic life processes are you aware of in the 10 trillion cells of your own bodyÉ
+* **Cell organelles**: "little organs"; the collection of membrane-bound functional structures in the cell, including the nucleus, mitochondria, and so on.
+* **Cell membrane**: the limiting lipoprotein membrane of the cell. It retains internal structure and permits exportation and importation of materials by infolding/outfolding, as in the formation of pseudopods by white blood cells.
+* **Nuclear membrane**: porous, limiting lipoprotein membrane; regulates passage of molecules into and from the nucleus.
+* **Nucleoplasm**: the nuclear substance containing chromatin and RNA.
+* **Nucleolus**: a mass of largely RNA; it forms ribosomal RNA (RNAr) that passes into the cytoplasm and becomes the site of protein synthesis.
+* **Cytoplasm**: the ground substance of the cell excluding the nucleus. Contains the organelles and inclusions (membrane-free collections of lipids, glycogen, and pigments).
+* **Smooth/rough endoplasmic reticulum (ER)**: convoluted, membrane-lined tubules to which ribosomes may be attached (rough ER: flattened) or not. Smooth ER is abundant in cells that symthesize steroids (lipids), such as the liver. It stores calcium ions in muscle.
+* **Ribosomes**: the site of protein symthesis, where amino acids are strung in sequence as directed by messenger RNA from the nucleus.
+* **Golgi complex**: flattened membrane-lined sacs that bud off small vesicles from the edges of the complex; collects secretory products and packages them for use or export.
+* **Mitochondrion**: membranous, oblong structure in which the inner membrane is convoluted like a maze and on which a complex series of reactions take place between oxygen and products of digestion, providing energy for cell operations.
+
+SKIM
+
+## Cells & Tissues: The Generalized Cell:SKIP
+
+## Cells & Tissues: Cell Division/ Mitosis: SKIP
+
+## Cells & Tissues: Epithelial: SKIP
+
+## Cells & Tissues: Fibrous Connective Tissues: SKIP
+
+## Cells & Tissues: Tissues: Supporting Connective Tissues
+
+## Cells & Tissues: Muscle SKIP
+
+## Cells & Tissues: Tissues: Skeletal Muscle Microstructure
+
+## Cells & Tissues: Tissues Nervous
+
+* **Nervous tissue** consists of neurons (nerve cells) and neuroglia. Neurons generate and conduct electrochemical impulses by way of neuronal (cellular) processes. Neuroglia are  the supporting, nonimpulse-generating/conducting cells of the nervous system. The main, nucleus-bearing part of the neuron is the **cell body**. Its cytoplasm contains the usual cell organelles. Uniquely, the endoplasmic reticulum occurs in clusters called Nissl substance. Neuronal growth consists of migration and arborization of processes. Neurons are the impulse-conducting cells of hte brain and spinal cord (**central nervous system**, or **CNS**) and the spinal and cranial nerves (**peripheral nervous system**, or **PNS**)
+
+#### Types of Neurons
+* **Neurons** falls into three structural categories based on numbers of processes (poles); unipolar, bipolar, and multipolar. Processes that are highly branched (arborized) and uncovered are called **dendrites**. They bring impulses to the cell body of origin (of which they are a part). Slender, long, minimally branched processes called **axons** conduct impulses away from the cell body of origin. Within each structural category, there is a great variety of shapes and sizes of neurons. **Unipolar** neurons have, or appear to have (pseudounipolar), one branch that splits near its cell body into a central and peripheral process (sensory neuron of the PNS, lower left). Both processes conduct impulses in the same direction, and each is termed an axon. **Bipolar** neurons have two (central and peripheral) processes (also called axons), conducting impulses in the same direction. **Multipolar** neurons have three or more processes, one of which is an axon. Motor neurons send impulses to other neurons or to effector (skeletal/smooth muscles). Unipolar and bipolar generally coneduct sensory impulses.
+* Most axons are enveloped in one or more (up to 200) layers of an insulating phospholipid (**myelin**) that enhances impulse conduction rates. Myelin is produced by **oligodendrocytes** in the CNS and by **Schwann cells** in the PNS. All axons of the PNS are ensheathed by the cell membrances of Schwann cells (neurilemma) but not necessarily myelin. The gaps between Schwann cells are **nodes of Ranvier**, enabling rapid node-to-node impulse conduction. Schwann cells make possible axonal regeneration in the PNS.
+* **Neuroglia** exist in the both the CNS and PNS (Schwann cells). **Protoplasmic astrocytes** occur primarily in CNS gray matter (dendrites, cell bodies), **fibrous astrocytes** among the myelinated axons of white matter in the CNS. Their processes attach to both neurons and blood vessels and seem to offer metabolic, nutritional, and physical suport. They may play a role in the blood-brain barrier. Oligodendrocytes are smaller than astrocytes, have fewere processes, and exist near neurons. **Microglia** are the small scanvenger cells (phagocytes) of the brain and spinal cord
+
+LIST
+* Neuron: Cell Body
+* Process: Dendrite
+* Process: Axon
+* Nucleolus
+* Nucleus
+* Nissi substance (ER)
+* Cytoplasm
+* Unipolar
+* Bipolar
+* Peripheral process
+* Central process
+* Multipolar
+* Myelin
+* Schwann Cell
+* Nucleus
+* Motor Neuron
+* Neuromuscular junction
+* Skeletal muscle
+* Skin
+* Receptor
+* Peripheral process
+* Sensory neuron
+* Central process
+* Protoplasmic Astrocyte
+* Fibrous Astrocyte
+* Oligodendrocyte
+* Microglia
+
+## Cells & Tissues: Integration of Tissues: SKIP
+
+## Integumentary System: The Integument: Epidermis SKIP
+
+## Integumentary System: The integument: Dermis SKIP
+
+## Skeletal & Articular System: Long Bone Structure SKIP
+
+## Skeletal & Articular Systems: Endochondral Ossification
+
+## Skeletal & Articular Systems: Axial/ Appendicular Skeleton
+
+## Skeletal & Articular Systems: Classification of Joints
+
+## Skeletal & Articular Systems: Terms of Movements
+
+## Skeletal & Articular Systems: Bones of the Skull (1)
+
+## Skeletal & Articular Systems: Bones of the Skull (2)
+
+## Skeletal & Articular Systems: Emporomandibular Joint (Craniomandibular) 
+
+## Skeletal & Articular Systems: Vertebral Column
+
+## Skeletal & Articular Systems: Cervical & Thoracic Vertebrae
+
+## Skeletal & Articular Systems: Lumbar, Sacral, & Coccygeal Vertebrae
+
+## Skeletal & Articular Systems: Bony Thorax
+
+## Skeletal & Articular Systems / Upper Limb: Pectoral Girdle & Humerus
+
+## Skeletal & Articular Systems/ Upper Limb: Glenohumeral Joint for B and C (Shoulder Joint)
+
+## Skeletal & Articular Systems / Upper Limb: Bones of the Forearm
+
+## Skeletal & Aritcular Systems / Upper Limb: Elbow & Related Joints
+
+## Skeletal & Articular Systems / Upper Limb: Bones / Joints of the Wrist & Hand
+
+## Skeletal & Articular Systems / Upper Limb: Bones / Joints in Review
+
+## Skeletal & Articular Systems / Lower Limb: Hip Bone, Pelvic Girdle & Pelvis
+
+## Skeletal & Articular Systems / Lower Limb: Male & Female Pelves
+
+## Skeletal & Articular Systems / Lower Limb: Sacroilic & Hip Joints
+
+## Skeletal & Articular Systems / Lower Limb: Bones of the Thigh & Leg
+
+## Skeletal & Articular Systems / Lower Limb: Knee Joint
+
+## Skeletal & Aritcular Systems / Lower Limb: Ankle Joint & Bones of the Foot
+
+## Skeletal & Articular Systems / Lower Limb: Bones & Joints in Review
+
+## Muscular System: Introduction to Skeletal Muscle
+
+## Muscular System; Integration of Muscle Action
+
+## Muscular System / Head: Muscles of Facial Expression
+
+## Muscular System / Head: Muscle of Mastication
+
+## Muscular System/ Neck: Anterior & Lateral Muscles
+
+## Muscular System/ Torso: Muscles of the bony thorax & Posterior abdominal Wall
+
+## Muscular System / Torso: Muscles of the anterior abdominal Wall & Inguinal Region
+
+## Muscular System / Torso: Muscles of the Pelvis
+
+## Muscular System / Torso: Muscles of the Perineum
+
+## Muscular System/ Upper Limb: Muscles of Scapular Stabilization
+
+## Muscular System/ Upper Limb: Muscles of Musculotendinous Cuff
+
+## Muscular System / Upper Limb: Movers of the Shoulder Joint Muscles
+
+## Muscular System / Upper Limb: Movers of Elbow & Radioulnar Joints
+
+## Muscular System / Upper Limb: Movers of Wrist & Hand Joints (exteinics)

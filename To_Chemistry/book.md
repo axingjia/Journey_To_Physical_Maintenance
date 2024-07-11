@@ -19,4 +19,35 @@ PS: This document is completely writtin in vim.
 
 ### International System (SI) of Units
 * A system known as SI from the French name, Système International d'Unitès, has been adopted by many international bodies, including the International Union of Pure and Applied Chemistry, to institute a standard for measurements. In SI, the reference unit for length, mass, and time are meter, kilogram, and second, wit hte symbol m, kg, and s, respectively.
-* A multiplier can be used to represent values larger or smaller than the basic unit (gram, liter, meter, etc.). The multipliers are ten raised to a specific power, as listed in Table 1-1. This system avoids the necessity of having different basic units, such as the inch, foot, yard, or ounce, pint, quart, gallon, etc. The multiplier abbreviation precedes the symbol of the base unit with neither a space nor punctuation; an example is m in mL, the mililiter (10^-3 L). Since, for historical reasons, the SI reference unit for mass, kilogram, already has a prefix, multiples for mass should be derived by applying the multiplier to the unit gram rather than kilogram--then 10^-9 kg is expressed in micrograms (10^-6), abbreviated µg
+* A multiplier can be used to represent values larger or smaller than the basic unit (gram, liter, meter, etc.). The multipliers are ten raised to a specific power, as listed in Table 1-1. This system avoids the necessity of having different basic units, such as the inch, foot, yard, or ounce, pint, quart, gallon, etc. The multiplier abbreviation precedes the symbol of the base unit with neither a space nor punctuation; an example is m in mL, the mililiter (10^-3 L). Since, for historical reasons, the SI reference unit for mass, kilogram, already has a prefix, multiples for mass should be derived by applying the multiplier to the unit gram rather than kilogram--then 10^-9 kg is expressed in micrograms (10^-6), abbreviated µg.
+* Simple units can be combined to produce compound units that can be manipulated algebraically.
+
+Example 1: The unit for volume in SI is the cubic meter (m^3), since
+
+        Volume=length^3=m^3
+
+Example 2: The unit for speed is a unit for length (distance) divided by a unit for time
+
+        Speed = distance/time=m/s
+
+Example 3: The unit for density is the unit for mass divided by the unit for volume:
+
+        Density =mass/volume=kg/m^3
+
+* Symbols for compound units may be expressed in the following formats:
+
+1. Multiple of units. Example: kilogram second
+
+SKIM
+
+### Temperature
+SKIM
+
+* CL: inch=2.54 x 10^-10
+* CL: pound=0.45359237 kg
+
+### Other Temperature Scales
+CL: K = C +273.15 or C=K-273.15
+CL: F=9/5C+32 OR C=5/9(F-32)
+
+### Use and Misuse of Units
