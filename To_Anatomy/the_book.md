@@ -370,3 +370,21 @@ LIST
 
 ## Nervous System: Functional Classification of Neurons
 * Neurons generally function in one of three modes: 1) sensory (**afferent**, an alternative term meaning conduction of impulses toward a cnter) neurons receive electrochemical impulses from receptors in the body and conduct those impulses to the central nervous system (CNS); 2) motor (**efferent**, an alternative term meaning conduction of impulses away from a center) neurons conduct motor command impulses from the CNS to muscles of the body; or 3) associative. In the latter, neurons form a network of billions of interconnecting cells with extensive interconnecting processes in the CNS, where these "association" neurons work out all the details between simple sensory input and cimplex motor responses.
+* If the sensosry or motor neurons relate to musculoskeletal structures or the skin and fascia (collectively formed from somites in the embryo), the prefix "somatic" may be applied to the term "neuron", as distinguished from "visceral", which refers to organs with hollow cavities that have a fundamentally different origin in the body. Although the sensory neurons of the body wall and viscera are essentially the same, the visceral efferents of these two areas are quite different (somatic efferent vs. visceral efferent, aka "autonomic" nervous system.
+* **Sensory neurons** are the afferent side of neuronal interations. They form an association with untold numbers of sensory **receptors** throughout the entire body, including receptors sensitive to touch, pressure, pain, joint position, muscle tension, chemical concentration, and light and sound waves. At any point in time, these receptors collectively provide information on charges in the external and internal environment of and around the body. Most sensory neurons are apprently unipoloar (or pseudounipolar) or bipoloar, based on the numbers of their cellular processes. The **peripheral processes** bring impulses to the cell body and **central processes** conduct impulses into the spinal cord or brain for central processing.
+* **Motor neurons** conduct impulses from **cell bodies** located in the CNS through **axons** that leave the CNS and subsequently divide into branches, each of which becomes incorporated into the cell membrane of a muscle cell (**motor end plate**). At the end plate, the neuron releases its neurotransmitter, which induces the muscle cell to shorten. All skeletal muscles require efferent innervation; not cardiac and smooth muscle.
+* **Autonomic motor neurons** functions as paired units connected at a ganglion by a synapse. The first or **preganglionic neuron** arises in the CNS, and its axon embarks for a ganglion located some distance from the CNS. There it synapses with the cell body or dendrite of a **postganglionic neuron** whose axon proceeds to the effector organ: smooth muscle, cardiac muscle, or glands.
+* **Associated neurons** make up the bulk of the neurons of the brain and spinal cord. Dr. Marian Cleeves Diamond, neuroanatomist and past director of the Lawrence Hall of Science, put it well: "**Interneurons** are responsible for hte modification, coordination, integration, facilitation, and inhibition that must occur between sensory input and motor output. They are the source of the seemingly unlimited array of responses to our environment"
+
+LIST
+* CNS
+* spinal cord (or brain)
+* PNS
+* somatic or visceral
+* stimulus and receptor
+* smooth muscle (effector)
+* ganglion
+* Preganglionic neuron
+* Motor end plate
+
+
