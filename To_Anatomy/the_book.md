@@ -387,4 +387,58 @@ LIST
 * Preganglionic neuron
 * Motor end plate
 
+## Nervous System: Neuromuscular Integration
+* An axon, and its branches, of a single motor neuron and the skeletal muscle fibers it innervates consitute a **motor unit**. The specific connection of an axon with the muscle fiber is called a **neuromuscular junction**. Within any given skeletal muscle, the number of muscle fibers innervated by a single motor neuron largely determines the specificity of contraction of that muscle. The fewer the number of muscle fibers in each motor unit, the more selective and refined the degree of contraction of the skeletal muscle.
+* **Skeletal muscle** consists of innumerable **muscle fibers** (cells). Skeletal muscle requires an intact nerve (innervation) to shorten (contract). Such a nerve, called a **motor nerve**, consists of numerous **axons** of motor neurons. A motor neuron is dedicated solely to stimulating muscle fibers to contract. Each single muscle fiber in a skeletal muscle is innervated by a **branch of an axon**. The microscopic site at which the axon branch attaches to the skeletal muscle fiber is called the neuromuscular junction. Each neuromuscular junction consists of an **axon terminal** closely applied to an area of convoluted muscle fiber sarcolemma called the **motor end plate**. There is a gap between the two surfaces. When a skeletal muscle fiber is about to be stimulated, the axon terminal releases a chemical neurotransmitter, called acetylcholine, into the gap. The neurotransmitter induces a change in the permeability of the sarcolemma to sodium (Na), which initiates muscle fiber contraction. A muscle fiber can only contract maximally ("all or none" law). All muscle cells innervated by the branches of a single motor axon contract maximally.
+* Given the fact of "all or none" contractions by individual skeletal muscle fibers, **grades of contraction** of a skeletal muscle are made possible by activating a number of motor units and not activiating others.
+* We show here a msucle **at rest** with no motor units activated. Such a condition has two exceptions: 1) receptors responding involuntarily to stretch (muscle spindles) and 2) muscle tone involuntarily set by subcortical motor centers. So, in fact, even among resting muscles, a variable number units are in contraction at any one time even though the muscle is not consciously working.
+* In a **partial contraction**, only some of the motor units are activated. In **maximal contraction** of a skeletal muscle, all motor units are activated. The gluteus maxmus consists of skeletal muscle fibers having a nerve-to-muscle ratio of 1:1000 or more. There is no possibility of controlled, refined contractions from this muscle. The facial muscles, in contrast, having a much lower nerve-to-muscle ratio, closer to 1:10. Here small numbers of muscle fibers can be contracted by implementing one or a few motor units, generating very fine control on the muscular effect (facial expression) desired, such as "the Mona Lisa smile".
 
+LIST
+* Muscle Fiber
+* Motor End Plate
+* Axon
+* Axon Branch
+* Axon Terminal
+* Neuromuscular junction
+* Acetylcholine
+* Sarcolemma
+* Grade of Contraction
+
+## Central Nervous System: Development of the Central Nervous System (CNS)
+
+## Central Nervous System: Cerebral Hemispheres
+
+## Central Nervous System: Tract / Nuclei of Cerebral Hemispheres
+
+## Central Nervous System: Diencephalon
+
+## Central Nervous System: Brain Stem / Cerebellum
+
+## Central Nervous System: Spinal Cord
+
+## Central Nervous System: Ascending Tracts (Pathways)
+
+## Central Nervous System: Descending Tracts
+
+## Central Nervous System: Cavities & Coverings: Ventricles of the Brain
+
+## Central Nervous System: Cavities & Coverings: Meninges
+
+## Central Nervous System: Cavities & Coverings: Circulation of Cerebrospinal Fluid (CSF)
+
+## Peripheral Nervous System: Cranial Nerves
+
+## Peripheral Nervous System: Spinal Nerves & Nerve Roots
+
+## Peripheral Nervous System: Spinal Reflexes
+
+## Peripheral Nervous System: Distribution of Spinal Nerves
+
+## Peripheral Nervous System: Brachial Plexus & Nerves to the Upper Limb
+
+## Peripheral Nervous System: Lumbar & Sacral Plexuses: Nerves to the Lower Limb
+
+## Peripheral Nervous System: Dermatomes
+
+## Peripheral Nervous System: Sensory Receptors
