@@ -442,3 +442,216 @@ LIST
 ## Peripheral Nervous System: Dermatomes
 
 ## Peripheral Nervous System: Sensory Receptors
+
+## Autonomic (Visceral) Nervous System: ANS: Sympathetic Division (1)
+* A two-neuron linage uniquely characterizes the **autonomic nervous system (ANS)**, a motor system for smooth muscle, regulation of cardiact muscle activity, and glands (effectors). The main actors are the *preganglionic* and *postganglionic* neurons.
+* The autonomic nervous system (ANS) or visceral nervous system (VNS) is part of the peripheral nervous system (PNS) and consists of the sympathetic and parasympathetic divisions. The **sympathetic (thoracolumbar) division** is concerned with de-increased heart and respiratory rates, increased blood flow to brain and skeletal muscles, contraction of sphincter muscles, and inhibition of glandular secretion with the exception of sweat glands of the skin. The **parasympathetic (craniosacral) division** is teh "vegetative" division that drives visceral activity (intestinal motility, glandular secretion, etc.) The two divisions work together to achieve internal stability in all phases of life (homeostasis).
+* Sensory impulses from viscera are conducted by visceral sensory neurons (GVA) which are equivalent to somatic sensory neurons (GSA). These neurons are not part of the ANS motor system (see glossary, Cranial Nerves, for reference regarding terms GVA, GSA, etc). Impulse conduction through both divisions of the ANS begins with the **preganglionic neuron**. The somata of these neurons are located in the lateral horns of spinal cord segments T1-L2. The preganglionic (myelinated) axons leave the spinal cord through the anterior (motor) roots, travel a short distance in the spinal nerve, then divert to join the **white rami** that take the myelinated fibers to the **sympathetic chain (trunk) of ganglia** running alongside the anterolateral aspect of the vertebral column bilaterally. A **preganglionic axon** can take on of four courses: 1) upon entering the chain, the axon may synapse with a **postganglionic neuron** at that level of synapse, or it may ascend (2) or descend (3) within the chain two or more levels before synapsing. The postganglionic axon will then leave the chain by way of the **gray ramus** at the level of the synpase and join the spinnal nerve. These **postganglionic axons** innervate the smooth muscle in arteries (and some veins) within the distribution pattern of the spinal nerve, and innervate t he sweat glands, arrector pili muscles, and the smooth muscle in the arteries of the skin. The preganglionic axons entering the chain continue out of the chain anteriorly--without synapising--as **splanchinic nerves** 4) heading for ganglia and plexuses of sympathetic and parasympathetic neurons on the anterior wall of the abdominal aorta. The fate of these splanchnic nerves can be seen on the following page.
+
+LIST
+* Spinal Cord Segments T1-L2
+* Preganglionic Cell Body
+* Preganglionic Axon
+* White Ramus
+* Splanchnic Nerve
+* Prevertebral Ganglia/Plexus
+* Sympathetic chain (Ganglia)
+* Postganglionic cell body
+* Postganglionic Axon
+* Gray Ramus 
+* Spinal Nerve
+* Bony Thorax
+* Anterior View
+
+## Autonomic (Visceral) Nervous System: ANS: Sympathetic Division (2)
+* Sympathetic innervation of skin (and viscera as well) begins with the preganglionic neurons in the thracolumbar part of the spinal cord (L1-2). See the left side of the spinal cord diagram. The preganglionic axons leave the cord via the anterior rami of spinal nerves and within a short distance leave the spinal nerves to join the white communicating rami to the sympatetic chain.
+* Preganglionic axons ascend, descend, or remain at the same level they entered to synapse with postganglionic neurons destined for the skin. These postganglionic axons leave the chain via the *gray communicating rami*, enter the spinal nerves from C1 through Co1, and reach the skin via cutaneous nerves. These axons induce secretory activity in sweat glands (but not other glands), contraction of arrector pili muscles, and vasoconstriction in vessels except arteries to the head/brain, skeletal muscles, and skin. There are no parasympathetic counterparts to the skin. Nerves to blood vessels ride with spinal nerves and reach t he intended vessels by means of perivascular networks. In sum, sympathetics prepare the body for flight, and if that doesn't work, fight. Established sympathetic activities track this fundamental tenet.
+* **Postganglionic neurons** to the head (vessels and glands) leave the superior cervical ganglia and entwine about arteries en route to the head (in the absence of spinal nerves) to reach their target organs. Postganglionics to the heart and lungs leave the upper ganglia of the chain, reaching these organs via the cardia nerves/plexus and the pulmonary plexus. These neurons induce vasodilation of heart muscle, increased heart rate, and bronchial dilation by the local release of catecholamines (epinephrine, norepinephrine, etc).
+* Preganglionics to abdominal and pelvic viscera leave the cord at Levels T5-L2, enter the white communicating rami, and pass through the sympathetic chain without synapising. They form three pairs (greater, lesser, and least) of **splanchnic nerves** between the chain and the prevertebral ganglia on the aorta. These axons synapse with the postganglionic neurons in the prevertebral ganglia and plexuses, resulting in decreased intestinal motility, tightening of sphincters, and decreased glandular secretion (remember "flight or fight"). They stimulate the adrenal medulla to secrete mostly epinephrine and some norepinephrine. The lowest (sacral) ganglia of the sympathetic chain issue postganglionic axons by way of gray rami (recall: no white rami above T1 or below L2). These ride with somatic spinal nerve axons to the pelvic (and neighboring) plexuses from which the postganglionic axons reach the lower colon, rectum, anal canal, anus, urinary tract in the pelvis/perineum, prostate, uterus, and genital structures, inducing contraction of sphincters, decreasing intestinal motility, relaxing bladder muscles, constricting anal and urinary sphincters, stimulating secretion of male and female genital glands, stikmulating uterine contractions, and contracting perineal and urethral muscles to effect XXXX.
+
+LIST
+* Preganglionic Neurons
+* Splanchnic Nerve
+* White communicating rami
+* Gray communicating rami
+* Postganglionic Neurons
+* Respiratory rate
+* Heartrate
+* Sphincters
+* Cellac ganglia/plexus
+* Superior mesenteric plexus ganglia
+* Adrenal medulla
+* Pelvic plexus
+
+
+## Autonomic (Visceral) Nervous System: ANS: Parasympathetic Division
+* the **parasympathetic**, or craniosacral, **division** of the ANS is concerned with vegetative functions (e.g., encouraging secretory activity by mucous and digestive glands, and dilating sphincters). Functionally, the two divisions of the ANS seem to be essentially polar opposites. On the whole, they work together well, one perhaps with a bit more personality than the other. Still, the peace that comes following a good meal without digestive upset or the relief that follows elimination after a long car ride can be as welcome as being the first to cross the finish line after a grueling run. **Preganglionic neurons**(GVE) arise in the midbrain; joining the **oculomotor (III) cranial nerve**, , these axons enter the orbit through the superior orbital fissure to synapse with postganglionic cells in the **ciliary ganglion** of the orbit. The postganglionic fibers project to the posterior eyeball, lary constrictor. Preganglionic neurons (GVE) associated with the facial nerve arise from the brain stem between the pons and eral to the posterior nasal cavity and the nasopharynx), where they synapse with postganglionics in the **pterygopalatine ganglion**. Postganglionic fibers innervate glands of the oral and nasal mucosa as well as the lacrimal gland in the superior and lateral corner of the orbit. Preganglionic neurons (GVE) asssociated with the glossopharyngeal nerve (IX) in the upper posterior medullar reach for the otic ganglion by a remarkable route: they go out the jugular foramen, up through the middle ear cavity, piece of the roof of the middle ear cavity, join fibers from the facial nerve to descend into the infratemporal fossa, and synapse with ganglion cells in the otic ganglion. Postganglionic fibers innervate the comparatively large parotid gland (in front of the ear). The GVE fibers of the vagus nerve reach into all quarters from the chest to to the pelvis. The preganglionic fibers are unusally long, descedning the neck from the lwoer brain stem, joining with the internal carotid artery and the internal jugular vein, and running through the posterior mediastinum and esophageal hiatus of the diaphragm to reach the gastrointestinal tract. These preganglionic axons extend as far as the descending colon. The ganglia for these preganglionics are the muscular walls of the organ they supply (**intramural ganglia**). Thus, the postganglionic axons are very short, terminating in smooth muscle and glands.
+* The cell bodies of the sacral preganglionic neurons are found in the lateral horns of sacral spinal segment 2, 3, 4 of the spinal cord. Their axons leave the cord via the anterior rami and form their own nerves (**pelvic splanchnics**). These nerves mix with sympathetic postganglionics in the pelvic plexus, and depart from their target organs. They synapse with the postganglionic neurons at intramural ganglia in the organ wall. These fibers stimulate contraction of rectal and bladder musculature and induce vascular dilation in the XXX and XXX.
+
+LIST
+        
+        * Preganglionic Neurons 
+            III Cranial Nerve
+            VII Cranial Nerve
+            IX Cranial Nerve
+            X Cranial Nerve
+            Pelvic Splanchnic Nerve
+        * Ganglia
+            Ciliary
+            Pterygo Palatine
+            Submandibular
+            Otic
+            Intramural
+        * Postganglionic Neurons
+            Eye
+            Nasal/Oral Cavities
+            Salivary Glands
+            Thoracic/Abdominal Viscera
+            Pelvic/Perineal Viscera
+
+EXTRA LIST (MY)
+* jugular foramen
+* infratemporal fossa
+* parotid gland
+* vagus nerve
+* sacral preganglionic neurons
+
+## Special Senses: Visual System (1)
+
+## Special Senses: Visual System (2)
+
+## Special Senses: Visual System (3)
+
+## Special Senses: Auditory & Vestibular System (1)
+
+## Special Senses: Auditory & Vestibular System (2)
+
+## Special Senses: Taste & Smell
+
+## Cardiovascular System: Blood & Blood Elements
+
+## Cardiovascular System: Scheme of Blood Circulation
+
+## Cardiovascular System: Blood Vessels
+
+## Cardiovascular System: Mediastinum, Walls, Coverings of the Heart
+
+## Cardiovascular System: Chambers of the Heart
+
+## Cardiovascular System: Cardiac Conduction System & the ECG
+
+## Cardiovascular System: Coronary Arteries & Cardiac Veins
+
+## Cardiovascular System: Arteries of the Head & Neck
+
+## Cardiovascular System: Arteries of the Brain
+
+## Cardiovascular System: Arteries & Veins of the Upper Limb
+
+## Cardiovascular System: Arteries of the Lower Limb
+
+## Cardiovascular System: Aorta, Branches & Related Vessels
+
+## Cardiovascular System: Arteries to Gastronintestinal Tract & Related Organs
+
+## Cardiovascular System: Arteries of the Pelvis & Perineum
+
+## Cardiovascular System: Review of Principal Arteries
+
+## Cardiovascular System: Veins of the Head & Neck
+
+## Cardiovascular System: Caval & Azygos Systems
+
+## Cardiovascular System: Veins of the Lower Limb
+
+## Cardiovascular System: Hepatic Portal System
+
+## Cardiovascular System: Review of Principal Veins
+
+## Lymphatic System: Lymphatic Drainage & Lymphocyte Circulation
+
+## Immune (Lymphoid) System: Introduction
+
+## Immune (Lymphoid) System: Innate & Adaptive Immunity
+
+## Immune (Lymphoid) System: Thymus & Red Marrow
+
+## Immune (Lymphoid) System: Spleen
+
+## Immune (Lymphoid) System: Lymph Node
+
+## Immune (lymphoid) System: Muscosal Associated Lymphoid Tissue (M.A.L.T)
+
+## Respiratory System (Overview)
+
+## Respiratory System (External Nose, Nasal Septum & Nasal Cavity
+
+## Respiratory System; Paranasal Air Sinuses
+
+## Respiratory System: Pharynx & Larynx
+
+## Respiratory System: Lobes & Pleura of the Lungs
+
+## Respiratory System: Lower Respiratory Tract
+
+## Respiratory System: Mechanism of Respiration
+
+## Digestive System: Overview
+
+## Digestive System: Oral Cavity & Relations
+
+## Digestive System: Anatomy of a Tooth
+
+## Digestive System: Pharynx & Swallowing
+
+## Digestive System: Peritoneum
+
+## Digestive System: Esophagus and Stomach
+
+## Digestive System: Small Intestine
+
+## Digestive System: Large Intestine
+
+## Digestive System: Liver
+
+## Digestive System: Biliary System & Pancreas
+
+## Urinary System: Urinary Tract
+
+## Urinary System: Kidney & Related Retroperitoneal Structures
+
+## Urinary System: Kidney & Ureter
+
+## Urinary System: The Nephron
+
+## Urinary System: Tubular Function & Renal Circulation
+
+## Endocrine System: Introduction
+
+## Endocrine System: Pituitary Gland & Hypothalamus
+
+## Endocrine System: Pituitary Gland & Target Organs
+
+## Endocrine System: Thyroid & Parathyroid Glands
+
+## Endocrine System: Adrenal (Suprarenal) Glands
+
+## Endocrine System: Pancreatic Islets
+
+## Reproductive System: Male Reproductive System
+
+## Reproductive System: Testis
+
+## Reproductive System: Male Urogenital Structures
+
+## Reproductive System: Female Reproductive System
+
+## Reproductive System: Ovary
+
+## Reproductive System: Uterus, Uterine Tubes & XXX
+
+## Reproductive System: Menstrual Cycle
+
+## Reproductive System: Breast (Mammary Gland)
+
+# ENDENDENDENDEND
