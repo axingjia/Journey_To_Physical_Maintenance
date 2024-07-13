@@ -627,6 +627,51 @@ EXTRA LIST (MY)
 ## Urinary System: Tubular Function & Renal Circulation
 
 ## Endocrine System: Introduction
+* Classically, **endocrine glands** and **tissues** are discrete masses of secretory cells and their supporting tissues in close proximity to blodd capillaries into which these cells secrete their hormones. *Hormones* are chemical agents usually effective among cells (**target organs**) located some distance from their source. **Hormonal secretation** results in positive or negative feedback control mechanism in the target tissue(s). In the broader scope, in the face of current and recent past research, it is generally agreed that the classical definition may have to be expanded to accommodate new findings with regard to local chemical control. Chemical agents that are effective in the same fluid environment as the cells that secreted them (local "target" cells) are known as *paracrines. There are also cells that secrete chemical agents outside the cell's membrane and induce a response among receptors in or on the same cell (autocrines). Such cells, at least in part, are self-regulatory.
+* Hormonal activity results in growth, reproduction, and metabolic stability in the internal (chemical) environment. In this internal environment, cells, tissues, and organs contribute and respond to chemical input results in stabilizing influences on cellular activity under a broad set of conditions, and maintains a long-lasting "normal" environment called homeostasis (homeo, normal; stasis, a state of equilibrium among opposing forces or tendencies).
+* The classical endocrine glands shown here are presented on the following pages, with the exception of the **pineal gland** and the **thymus**. In addition to the classical endocrine glands, a few of the myriad tissues/cells that secrete chemical agents influential in cellular activities are listed here.
+* The atria of the **heart** secrete atrial natriuretic peptide (ANP) during periods of heighten blood pressure. The effect of this chemical agent is to limit the influence of the renin-anglotensin-aldosterone mechanism and permit increased excretion of water and sodium.
+* The juxtaglomerular cells of the **kidney** secrete renin, an enzyme that converts angiotensinogen to angiotensin I and indirectly induces increased blood pressure and conservation of body fluids, such as during hemorrhage.
+* The cells of the **gastrointestinal tract** secrete numerous endocrine factors that influence intestinal motility and enzyme secretion.
+* The **placenta** secretes many hormones, including human chorionic gonadotropin (hCG), estrogen, progesterone, lactotropid (breast development and milk production support) hormones, and relaxin. During the first 90 days after fertilization, hCG contributes to the support of embryonic growth by stimulating the growth of the corpus luteum
+
+LIST
+Endocrine Glands
+* Hypophysis (Pituitary)
+* Pineal
+* Thyroid
+* Parathyroid
+* Thymus
+* Adrenal (Suprarenal)
+* Pancreas
+* Ovary 
+* Testis
+
+Endocrine Tissues
+* Hypothalamus
+* Heart
+* Kidney
+* Gastrointestinal Tract
+* Placenta
+
+Endocrine Function
+* Endocrine Gland
+* Hormonal Secretion
+* Target Organ
+
+* Sagittal view
+* Thyroid cartilage
+* Trachea
+* Bronchi
+* Diaphragm
+* Endocrine cell
+* Blood circulation
+* Target cells
+* Secretions
+* Free surface
+* Duct
+* Exocrine cells
+
 
 ## Endocrine System: Pituitary Gland & Hypothalamus
 
@@ -635,12 +680,43 @@ EXTRA LIST (MY)
 ## Endocrine System: Thyroid & Parathyroid Glands
 
 ## Endocrine System: Adrenal (Suprarenal) Glands
+* The **adrenal (suprarenal) glands** lie in the retroperitoneum within the renal fascia on the superior and medial aspects of each kidney (T11-12 vertebral levels). The adrenals are two different glands encapsulated as one: the outer cortex and the inner medulia. Like other endocrine glands, the adrenals are abundantly vascularized.
+* The **adrenal cortex** is organized into three regions: the outer zone glomerulosa, the middle zona fasciculata, and the inner zona reticularis. When presented with a decrease in fluid volume, as with hemorrhage, the cells of the **zona glomerulosa** symthesize and secrete hormones called **mineralocorticoids**. Aidosterone is the best known of these. Mineralocorticoids act primarily on the distal tubules of the kidney, the sweat glands, and the gastrointestinal tract, inducing the absorption of sodium (and water) and the secretion of potassium. Cells of the **zona fasciculata**, mediated by ACTH, secrete **glucocorticoids**. These hormones (primarily cortisol and secondarily corticosterone) stimulate the formation of glucose in the liver. Cells of the **zona reticularis** secrete the androgen dehydroepiandrosterone (DHEA) in small amounts. DHEA can convert to testosterone. These cells also secrete female **sex hormones (steriods) (estrogen and progesterone) in small amounts. These adrenal androgens and estrogens have a limited effect during a lifetime.
+* The **medulla** consists of cords of secretory cells supported by reticular fibers, and an abundant collection of capillaries. Fibers of the **greater splanchnic nerve** pass through the celiac ganglia without synapsing to enter the adrenal gland. These fibers terminate on and stimulate the medullary secretary cells, 80% of which produce and release **epinephrine**; the rest secrete **norepinephrine**. These secretory cells are modified postganglionic neurons. Their secretions elicit the "fight or flight" reaction in response to life-threatening situations, as diagrammatically represented at right.
+
+LIST
+        
+        * Andrenal gland
+        * Capsule
+        Andrenal Cortex
+            * Zona Glomerulosa
+            * Zona Fasciculata
+            * Zona Reticularis
+        * Medulla
+        Arteries
+        * Superior Suprarenal A 
+        * Middle Suprarenal A
+        * Inferior Suprarenal A
+        Veins
+        * Right Suprarenal Vein
+        * Left Suprarenal Vein
+        Suprarenal Plexus
+        * Greater Splanchnic N
+        * Celiac Ganglion
+        * Plexus
+        
+        * Mineralocorticoids
+        * Glucocorticoids
+        * Sex Steroids (Estrogens, progesterone, androgens)
+        * Epinephrine
+        * Norepinephrine
+
 
 ## Endocrine System: Pancreatic Islets
 
 ## Reproductive System: Male Reproductive System
 
-## Reproductive System: Testis
+## Reproductive System: Testis: SKIM
 
 ## Reproductive System: Male Urogenital Structures
 
