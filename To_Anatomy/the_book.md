@@ -597,16 +597,88 @@ EXTRA LIST (MY)
 ## Respiratory System: Mechanism of Respiration
 
 ## Digestive System: Overview
+* The digestive system consists of an **alimentary canal** with **accessory organs**. The canal begins with the **oral cavity**, where the teeth pulverize ingested food while it is softened and partly digested by **salivary gland** secretions. The **tongue** aids in mechanical manipulation of the food (bolus) and literally flips the food into the fibromuscular **pharynx** during swallowing.
+* The **esophagus** moves the bolus along to the **stomach** by peristaltic muscular contractions. There, the bolus is treated t omechanical and chemical digestion, then passed into the highly coiled **small intestine** for more enzymatic and mechanical digestive proceses. Bile, produced by the liver and stored in the **gallbladder**, is discharged into the **duodenum** by a **bile duct**. It assists in the breakdown of fats. Digestive enzymes from the **pancreas** enter the duodenum as well. Nutrients of molecular size are extracted primarily from the lumen of the small intestine, absorbed by lining cells, and transferred to blood and lymph capillaries for eventual delivery to the liver for processing. The **large intestine** is concerned with absorption of minerals and water (proximal half) and storage. Undigested, unabsorbed material continues to the **rectum** for discharge through the **anal canal** and anus.
+
+LIST
+* Oral Cavity
+* Pharynx
+* Esophagus
+* Stomach
+* Duodenum
+* Jujunum
+* Ileum
+* Cecum
+* Vermiform Appendix
+* Ascending Colon
+* Transverse Colon
+* Descending Colon
+* Sigmoid Colon
+* Rectum
+* Anal Canal
+* Teeth
+* Tongue
+* Sublingual 
+* Submandibular
+* Parotid
+* Liver
+* Gallbladder
+* Bile Ducts
+* Pancreas
+
 
 ## Digestive System: Oral Cavity & Relations
 
 ## Digestive System: Anatomy of a Tooth
+* In this longitudinal section of a **molar**, two root are shown. The core substance of the tooth is **dentin**. It is composed of tightly packed microscopic tubules. Dentin is a pain sensitve and avascular. it is dense like bone, though more mineralized (70% by weight). Dentin is capped by a 1.5-mm layer of insensitive enamel, 95% of mineral by weight and less than 1% organic. **Enamel** consists of microscopic circular rods filled with hydroxyapatite (bone) crystals, and is the hardest material in the body. The dentin of each tooth has a hollow pulp cavity that extends into each root of the tooth; this is the **root canal**. At the apex of each root, an opening (apical or root foramen) permits the passage of blood vessels and nerves into/from the alveolar bone. Each tooth has a **crown**, extending above the gingiva (gum line), and a **neck** (at tum), and one or more **roots** buried in alveolar bone of the maxilla (upper teeth) or mandible (lower teeth). Incisors and canine teth each have a single root canal; premolars and molars may have one to three roots (this varies among individuals and specific teeth). Except for the incisiors, which have only a cutting edge, tubercle-like cusps separated by fissures characterize the surface of the crown. Canines have one cusp (cuspid); premolars have two (bicuspids), and molars have four or five cusps. Multiple cusps enhance the grinding and abrasive functions of the teeth.
+* The fibrous **periodontal ligament**, about 0.2 mm thick, interfaces the cermentum (lining root of the tooth) and the **alveolar bone**. The **cementum** is a highly mineralized substance. Collagen fibers stuck in the cementum penetrate the ligament to insert into the alveolar bone. The **gingiva** (gum) is a mucous membrane with stratified squamous epithelia that attaches to the enamel by a thickened basal lamina. The lamina propria of the membrane is strongly anchored to the underlying alveolar bone.
+* There are naturally 32 teeth in an adult --8 in each of 4 quadrants (right and left, in both upper and lower dental arches). Two sets of teeth (dentition) develop in a lifetime: deciduous and permanent. The deciduous set (20) is absorbed/shed
+
 
 ## Digestive System: Pharynx & Swallowing
 
 ## Digestive System: Peritoneum
 
 ## Digestive System: Esophagus and Stomach
+* The **esophagus** begins at the inferior extremity of the laryngopharynx at a vertebral lelve of C6. It fits snugly between the larynx and trachea anteriorly and the longus colli muscle and vertebral column posteriorly. The pharyngeal walls are lined with nonkeratinized stratified squamous epithelia and supported by skeletal muscle in the neck. Those two tissues continue into the wall of the esophagus. The esophagus is closely related laterally to the carotid sheaths (each binding t he carotid arteries, internal jugular vein, and vagus nerve) in its descent through the neck. It passes just posterior to the aortic arch and the heart, immediately behind the bifurcation of the trachea at about T5. As the descending thoracic aorta finds its place in the posterior mediastinum, the esophagus becomes its anterior neighbor. The esophagus passes through the esophageal hiatus of the thoracic diaphragm to become the stomach. Here t he epithelial tissue transitions to simple columnar epithelia with glands, an organ more compatible with digestive functions, and the skeletal muscle transitions to smooth muscle. The smooth muscle layer is arranged in both longitudinal and circular orientations, with a thin layer for the **muscularis mucosae**.
+* The gastroesophageal junction has an area of specialized circular muscle (lower esophageal sphincter) that permits passage of a food bolus by muscle relaxation during swallowing. The right crus of the diaphragm also contributes fibers to the esophagus (extreme sphincter) and functions to resist gastroesophageal reflux (reverse flow) during inspiration.
+* The **stomach** is the first part of the gastrointestinal tract. It is generally located in the upper left quadrant of the abdomen, although a full stomach can droop into the pelvis and one with severe gastroesophageal reflux disease can bulge into the thorax. At the duodenal end, the stomach narrows to a muscular pyloric sphincter.
+* Classically, the stomach has four **regions** whose shapes very with the quantity of its contents. The stomach mechanically manipulates ingested material, acidifies it to enhance protein digestion, secretes proteolytic enzymes (pepsin), and induces secretion of bile from the gallbladder and enzymes from the pancreas, both of which enter the duodenum. Microorganisms do not generally survive these activities.
+* Note the arrangement of the **stomach wall** and the various cells taht make up the epithelial layer of the **mucosa**. The epithelial cells are the working cells, providing a cocktail of digestive products whose main target is protein. The **lamina propria** provides vascular and mechanical support for the **gastric pits**. The muscle layer of the mucosa and the external muscle layers produce peristaltic contractions to assist in mechanical digestion and moving the residue of digestion along the tract. The fibrous **submucosa** supports lymphoid follicles, vessels, and nerves.
+
+LIST
+* Esophagus
+* Diaphragm
+* Liver
+* Cardia
+* Fundus
+* Body
+* Pylorus
+* Stomach wall
+* Mucosal Surface (Rugae)
+* Submucosa
+* Muscularis Externa
+* Oblique M
+* Circular M
+* Longitudinal M
+* Serosa
+* Epithelial Layer
+* Gastric Pit
+* Mucous Cell
+* Cardiac notch
+* Esophageal branches
+* Aorta
+* Celiac trunk
+* Common hepatic a.
+* Gastroduodenal a.
+* Pyloric Sphincter
+* Parietal Cell
+* Chief Cell
+* Endocrine Cell
+* Lamina Propria
+* Muscularis Mucosae
+* Lumen of the stomach
+
 
 ## Digestive System: Small Intestine
 
