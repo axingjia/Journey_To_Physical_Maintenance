@@ -31,3 +31,24 @@
 * Never carry sharp or pointed tools, such as utility knives, awls, or chisels, in your pocket. If you want to carry such tools, use a special-purpose tool belt with leather pockets and holders.
 
 # About This book
+* Think of the Ultimate Guide: Home Repair and Improvement as an owner's manual for your house--a comprehensive guide that you can turn to any time to help you with day-to-day home repair and maintenance. It is also a valuable source for information on larger, more involved home improvements, such as kitchen and bathroom upgrades.
+* Inside, you'll find 600 pages of helpful information that covers your house from top to bottom, inside and out. We've laid out the full spectrum of home repair and improvement in 23 chapters that cover tools and materials, home remodeling, outdoor living areas, and every part of the building, including the foundation, the framing
+
+# Home Emergencies
+
+        Weather-Related Emergencies: 
+            * Preparedness
+            * Severe Weather
+            * No Power, No Problem?
+            * Water, Water Everywhere
+
+        Emergencies Around the House
+            * Fire! Are you safe?
+            * Making accident preventable
+            * Making Wiring Safer
+            * Dealing with the aftermath
+
+PREPARENESS
+* Not every emergency can be prepared for, but if you live in an area prone to hurricanes, floods, earthquakes, or tornadoes, you should have basic emergency supplies on hand, and your family should be aware of what steps to take when disaster strikes.
+
+# ENDENDEND: Going to write the summary at the note section

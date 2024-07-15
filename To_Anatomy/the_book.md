@@ -297,6 +297,29 @@ LIST
 ## Skeletal & Articular Systems / Lower Limb: Bones & Joints in Review
 
 ## Muscular System: Introduction to Skeletal Muscle
+SKELETAL MUSCLE
+* A typical **skeletal muscle** (e.g., biceps brachii) is a discrete entity, characterized by a muscle mass (**belly**) with fibrous **tendons** at each end. The muscle consists of **muscle cells** and three degrees of layers of protective connective tissue **coverings**. The muscle and its coverings are packaged in deep fascia along with other muscles and neurovascular bundles.
+* Each skeletal muscle is arranged into **fascicles**. The outer covering of the muscle is the fibrous **epimysium**. Each fascicle of t he muscle is wrapped in a t hinner fibrous tissue, **perimysium**, along with nerves, small arteries, and small veins (neurovascular bundles). These nerve fibers and small vessels branch off to reach individual muscle cells. Each muscle fiber is surrounded by a thin sheath of fibrous tissue (**endomysium**), which secures the important neurovascular structures for that muscle fiber. Each of these fibrous coverings contributes to ensuring the uniform distribution of muscle tension during contraction, and to maintaining the natural elasticty of muscle, permitting it to recoil to its resting length following stretching. The merging of these fibrous layers at the ends of the muscle fibers forms the tendons that integrate with an secure the muscle to its attachment site(s), such as the periosteum or another tendon.
+
+MUSCLE LEVER SYSTEM
+* Skeletal muscles work like simple machines, such as levers, to increase the efficiency of their contractile work about a joint. Mechanically, the degree of muscular effort required to overcome resistance to movement at a **joint (fulcrum)** depends on 1) the force of that **resistance (weight)**; 2) the relative distances from the anatomical fulcrum to the anatomical sites of muscular effort; and 3) the anatomical sites of resistance (joints). The position of the joint relative to the site of muscle pull and the site of imposed load determines the class of the lever system in use.
+* In a **1st class lever**, the joint lies between the muscle and the load. This is the most efficient class of lever.
+* In a **2nd class lever**, the load lies between the joint and the pulling muscle. This lever system operates in lifting a wheelbarrow (the wheel is the fulcrum) as well as lifting a 75 kg (165 lb) body ont othe metatarsal heads at the metatarsophalangeal joints.
+* * in a **3rd class lever**, the muscle lies between the joint and the load and gives little mechanical advantage.
+
+LIST
+* Muscle Belly
+* Epimysium
+* Fascicle
+* Perimysium
+* Muscle Fiber (Cell)
+* Endomysium
+* Tendon
+* Fulcrum (Joint)
+* Effort (Muscle)
+* Resistance (Weight)
+
+
 
 ## Muscular System; Integration of Muscle Action
 
