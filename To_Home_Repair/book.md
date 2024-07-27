@@ -169,6 +169,9 @@ DEALING WITH THE AFTERMATH
 
 ===
 
+
+### Security Basics
+
 A SENSE OF SECURITY
 * No home ccan ever be made absolutely burglar-proof: if a burglar really wants to get in, even elaborate electronic security systems probably won't stop him. It's a question of degree: not enough protection can be foolhardy, while too much can be overbearing. What makes one person feel safe at home may leave another fearful.
 * You can achieve a comfortable level of security in many ways, ranging from taking such commonsense precautions as not advertising your absence, to installing expensive elctronic alarms linked to a security station that monitors them. But some of the most beneficial security measures are relatively simple. Begin by strengthening the most basic defenses you already have, including door locks, window latches, and lights, before adding to your home security arsenal. That way you can make your home more secure without disrupting your day-to-day life--or denting your checkbook.
@@ -205,3 +208,292 @@ LOCKING UP
         * Outside lights: Put outdoor lights on a timer, photoelectric switch, or motion-sensor switch
         * Inside light: Mimic your normal schedule by putting upstairs and downstairs lights on automatic timers
         * Trigger activity: Put some indoor lights on special switches that turn on when they detect noise or motion--a good idea of lamps located near your front porch.
+
+### Security Basics
+
+WHAT LOCKS DO
+* Good locks help keep the honest people honest and provide you with a sense of security on a dark and rainy night. Of course, burglars know plenty of ways to defeat even the best locks. But jimmying a locked door or smashing a window can be noisy or take too long to do--either of which may convine an intruder to look elsewhere for a less risky target.
+
+DOOR LOCKS
+* The easiest type of standard door lock for a burglar to open is a key-in-knob lock. These are the locks that can be opened with a credit card: just slip the card between the strikeplate and the spring latch to pop it open. Some of these locks have a separate tongue on the latch that makes this more difficult. But the lock can still be easily stripped out with a screwdriver, or simply removed from the door.
+* To give would-be intruders more trouble, attach a separate dead-bolt latch above the existing lockset, or remove the old knob and reinstall a stronger lockset, on eiwht a full mortise dead bolt or spring-latch rim lock. The rim lock is easier to install than a dead bolt and somewhat stronger but has a clunky appearance. The dead bolt is hidden from view.
+
+        passage locksets that have no key are commonly used on interior doors where there is no need for security
+
+        Standard keyed locksets used on exterior doors have a key cylinder on the outside and a thumb latch inside.
+
+        Combination locksets may have a separate latchset and dead bolt, or they can be connected on the same face hardware
+
+        Dead-bolt locks make any key-lock door more secure by connection the door to the frame with a long-throw bolt.
+
+        Exterior keyed locks come with many types of handles, including lever types that are easier to use for people with disabilities.
+
+LOCKING AN OPEN WINDOW
+* On windows, permanent locking clips and screws are no help if you want an occasional breath of fresh air; window locks need to be secure yet allow at least some ventilation. You can solve this problem with proprietary hardware or some do-it-yourself installations.
+* On a double-hung window, the plan is to lock the two sashes together in a partly opened position--say, with the upper sash cracked 2 inches. To make your own lock, set the sash in a vented position, then drill a hole through the frame of the inner sash and three-fourths of the way into the outer sash where they overlap. The two frames then can be joined solidly but temporarily by a dowel or a common nail.
+* Several manufacturers also offer more attractive alternatives, such as elegant brass-capped sash bolts. A small, threaded receptacle fits into, but not through, the outer sash. It accepts a 2 1/4-inch-long threaded bolt that slips through a corresponding hole in the inner sash.
+
+        The rotating lever lock slides under the adjacent housing on the outer sash to join the two sections together.
+
+        The rotating cam lock is harder to pick from the outside because it clips around the housing on the outer sash.
+
+        Keyed window locks are secure, but can be inconvenient if you need to fin and use a key everytime you want some ventilation.
+
+        This window lock increase security with a small stop that prevents the lock from turning unless you squeeze the handle
+
+        The sash lock has a stub that travels in a slotted bracket. In this position, the stub is out of the way so the sash opens.
+
+        Sliding-Door Locks: The typical in-line lock on sliding doors can't offer the degree of security that a lockset provides on a swinging door. The best bet is a bar lock. One end is hinged t othe far jamb and can fold down out of the way when you're using the door. The other side folds down into a U-shaped bracket on the sliding panel and is pinned there with a small key. You can also install a sliding bolt lock that ties the movable panele to the fixed panel. Fixed panels should be permanently clipped to the door frame.
+
+        Installing a Peephole
+        * Use a sharp bit to drill a centered eye-level hole the same diameter as the cylinder of the peephole.
+        * A typical peephole has an eyepiece attached to a cylinder that goes through the door and screws to a cover plate.
+
+
+### Door & Window Locks
+Doors & Jambs
+* A good place to start making your home more secure is the point that a burglar is most likely to attack: the door. Invest in strong locks, but remember that locks only make a connection between exterior doors, which are pretty solid, and doorjambs, which aren't. An intruder may not bother to pick or drill through an expensive dead-bolt lock when one swift kick can break loose the doorjumb that holds the dead bolt keeper. The entire assembly may stay securely locked while swinging into the room with the jamb. You can fix this weak link in your household security by making the door frame part of the building frame, as shown at right in "Strengthening Frames".
+
+        Strengthening Frames
+        Use: pry bar, power drill/driver. Shims, wood screws
+        1. Prevent kick-in entries where burglars crash in the door and jamb with the lock intact. First, remove the trim.
+        2. Insert blocks of wood at several points into the gaps between the door casing and the house wall framing.
+        3. Remove the stop or weatherstripping so you can drive screws through the door casing and blocks into the house frame.
+        4. Use screws long enough to reach at least 1 in. into the nearest wall stud. Replace the stop to conceal screwheads.
+
+LIST
+* Strike box
+* Reinforce3d Strike Plate
+* Longer Screws
+* Strike Guard
+* Old Strikeplate
+* Protective Flange
+* Cylinder Guard
+* Metal Sleeve
+* Hole for Lockset
+
+Installing a Dead Bolt
+1. use the paper template provided with the deadbolt to mark the center point of the holes you will need to drill.
+2. Bore a hole in the door face using a hole saw. When the tip breaks through, drill from the other side to prevent tearout.
+3. Bore a hole in the door edge to the latch bolt. To keep the drill (and the hole) level, it helps to sight along the drill.
+4. Set the latch bolt in its hole, and make a tracing of the latch plate on the door edge with a utility knife.
+5. Chisel out a mortise to match the size and depth of the latch plate. Turn the chisel over to clean the bottom of mortise.
+6. Insert the latch bolt (this one being for a new dead bolt) on the door edge, and fasten it in place with the screws.
+7. Install the lock cylinder by sliding the metal extension bar, called a tang, through the latch mechanism.
+8. To line up t he bolt keeper on the jamb, color or chalk the end of the bolt, close the door, and turn the lock to make an imprint.
+9. For maximum security, install a heavy gauge keeper using screws long enough to reach into the house framing.
+
+
+### Security Systems
+
+WIRED FOR SECURITY
+* For most people, alarm systems should be considered only a last resort. A good system is very expensive, often requiring monthly monitoring fees, and you will still need other security measures, such as window locks.
+* Too often, elaborate alarms have also one of two undesirable by-products: they either produce a false sense of security because no single system can keep out a determined burglar, or they become a nuisance--because of all the arming, disarming, and false alarms. That only makes you overly security-conscious and more fearful than you reasonably need to be.
+
+TYPES OF ALARM SYSTEMS
+* Alarm systems are either wired directly into your house's electrical system or are radio-controlled. A radio system uses battery-powered transmitters to send alarm signals to the master control unit. For a wired system, you need to loop wiring to and from each component of the system. A radio-controlled system is much easier to install but more expensive, and the batteries must be checked periodically.
+* Sensors installed at entry points in your home feed signals to the mast control panel. Typical sensors are magnetic switches set on door-jambs or first-floor window sashes; trap switches that string across an air-conditioner or casement window; metal-foil alarm tape that detects movement in a window, motion sensors, and sensors that can detect the sound of breaking glass.
+
+        Basic System Layout
+        * Glass-break detector
+        * Siren
+        * Contact Sensor
+        * Control Panel
+        * Infrared Sensor
+        * Smoke Detector
+        * Motion Detector
+
+        Common Components
+        * A whole-house security system may include dozens of components, including inside and outside sensors and alarms.
+        * Sensor packages at a window can be wired or remote. When a connection between units is broken, the alarm sounds.
+        * Remote sensors also work on doors. A wired alternative, a plunger switch in teh jamb, releases when the door is opened.
+        * Many whole-house systems include a remote trouble switch--a panic button--that can trigger an alarm from any room.
+        * One economical alternative to a detector at every window is a centrally located audio unit that detects glass breaks.
+        * Motion detectors are installed inside  to signal movement in rooms and outside to trigger lights. Their range is adjustable.
+
+        Auto-Dialers
+        * Some security systems offer off-site monitoring or some other way to respond to an emergency, even if you're not home. When an alarm is triggered at your house, it shows up at the security company's monitoring station. One alternative to this is an auto-dialer. When a security system sensor is triggered, the auto-dialer automatically calls the telephone numbers that you programmed it to call. Any auto-dialer that uses regular phone lines (that is, nonwireless) won't work when lines are down.
+        * Caution: Before investing in an expensive security system that automatically reports trouble to local authorities, check with local police about their policy on false alarms. In some areas, the police may not have the manpower or the budget to cover every alarm. There may be a penalty for repeated violations. In some cases, police may not respond at all after there have been a certain number of false alarms from the same address.
+
+        Remote Sensors
+        * Remote sensors are like wireless phones. They do the same job as standard security-system components, but they broadcast trouble to the central control panel instead of relaying it by wires strung through your house. Remote sensors make installation easy in an existing home where it may be difficult to conceal wiring. Most types of sensors are available as remote units, including motion detectors and sensors that monitor glass breakage and basement flooding.
+        * A remote sensor has circuitry to monitor entry at windows and doors, for example, and battery power to signal entry.
+        * Many remote sensors are barely noticeable (only twice the size of a quarter) and do not require hard-wire connections.
+
+### FIRE SAFETY
+
+PREVENTING & DETECTING
+* Many house-fire tragedies that make the news could have been prevented. But because the possibility of one's own house burning down seems so remote, many homeowners don't take even the most basic preventitive measures. Many are surprisingly simple and inexpensive, yet very effective at saving both lives and properties
+
+Smoke Detectors
+* Smoke detectors may be the most cost-effective consumer product on the market. Just consider what it costs (about $25 for a battery model) and what it can do (provide a warning in enough time to save lives). Detectors should be installed on every level of a home, high on the walls or on ceilings in open areas like hallways. Because deaths are most likely from fires that start at night when everyone is asleep, it's important to install detectors in halls just outside bedrooms. Many building codes now require hardwired units (with battery backup) for new construction and major remodeling.
+
+Heating Equipment
+* Regular checkups are the best preventative measure for your heating system. Annual tune-ups are recommended for oil-fired furnaces; once every 3 years for gas-fire units. Electric units, which do not produce any combustion by-products, normally do not need regular tune-ups.
+* If you burn wood or coal regularly, have the flue cleaned annually by a chimney sweep. Wood and coal combustion in a stove is dirtier than other types of heating--you need the sweep because the worse hazards are out of sight: creosote, a gummy and flammable product of wood combustion that collects inside the chimney, and cracks in the chimney liner or bricks, which could let smoke and fire escape.
+
+Escape Routes
+* Fire departments call it an alternative means of egress--a second way out of a room. On the first floor you could climb out a window. On second stories, you may need a portable safety ladder with metal arms that hang on the window sill and steps that unroll to the ground below. It's important to go over escape routes with children and practice using the escape routes.
+
+        Battery-Powered Detectors
+        * Each year, more than 3,700 people die in over 400,000 residential fires. The best way to prevent property damage and injury is to install smoke detectors. About 90 percent of U.S. households have at least one, but up to 16 million detectors don't work, due mainly to dead or missing batteries. You should test battery-powered units monthly, and replace batteries that are low on power. Many building codes require hardwired units that are equipped with battery backup.
+        * Most safety organization recommend that you change the batteries in your smoke detector at least once a year.
+
+        Typical Detector Location
+        * Living room
+        * Basement Stairs
+        * Kitchen (Away from Stove)
+        * Bedroom
+        * Top of Stairs
+
+        Hard-wiring a detector
+        * Use: Circuit tester. Combination tool. Screwdriver. Drywall saw, plier. Hard-wired smoke detector
+        1. The most convenient power source is a junction box mounted to a ceiling joist. Cut power to the box before opening it.
+        2. Check your local codes before running a new supply line from connectors in the junction box to the detector mounting box
+        3. Most hardwired detectors have a surface mounting plate that attaches to the electrical box above the drywall.
+        4. Following the instructions supplied by the manufacturer, join the detector leads to the power-supply cable.
+        5. The leads are attached to a harness that plugs into a receptable on the detector. Twist the detector onto the mounting plate.
+
+        Home Fire Extinguisher
+        * Most homes need at least two extinguishers: a small unit in the kitchen and a larger, wall-mounted unit (generally installed in a closet) t o use elsewhere. To avoid confusion in an emergency, choose A-b-c rated units, which work on all types of fires. To use a n extinguisher effectively, remember the acronym P A S S, Pull (the pin), Aim, Squeeze, and Sweep.
+        * use an all-purpose A-B-C extinguisher against paper, grease, and electrical firs. Aim at the base of the fire.
+
+        Typial Clearance Codes
+        * Hearth. 18''
+        * 36''
+        * Exhaust Pipe
+        * Spacer
+        * 9''
+        * Fireproof Material 18''
+
+        Chimney
+        * 3' Min Above Roof
+        * 10'
+        * 2' Above the highest Point within 10'
+
+        Safety Checklist
+        * Don't overload: Don't not plug more than one heat-producing devfice into an outlet
+        * Maintain smoke detector: Replace battery and vacuum the unit annually; test a detector monthly, and replace it every 10 years.
+        * Provide safe egress: Have two ways out of every room--a door and a code-compliant egress window--including rooms in finished basements.
+        * Fire-safe security: Don't use security locks, bars, or devices that make it difficult to escape a fire.
+        * Clean your chimney: Have wood-burning chimneys inspected annually and cleaned as needed.
+        * Store inflammables safely: Store inflammable liquids in original containers with tight-fiting lids. Keep them away from heat sources or flames, preferrably in a shed.
+        * Be prepared: Keep an extinguisher handy to stop a small fire from spreading. In other cases, call 911.
+
+### CHILDPROOFING
+
+Danger At Knee Level
+* Don't put off babyproofing your house until the little one can walk--a fast-crawling baby ccan find plenty of trouble. Crawl around your house yourself, and you'll discover many dangerous things at infant eye level: outlets, rickety TV stands, appetizing potted plants. And when a toddler learns to stand, he or she will hold onto anything to get upright, including the tablecloth dangling from a table full of bone china.
+
+Storing hazardous Item Safety
+* Any potentially harmful item should be either locked away or kept in cabinets and drawers with childproof safety latches. This includes knives and the obvious poisons such as medicine and cleaning products, but also mouthwash, shaving cream, perfume, and deodorant, which can be harmful to curious toddlers who like to put things in their mouths. Even high counters are not necessarily safe places; you need to put away that decorative knife rack because toddlers will figure out a way to get up on a counter well before you think they can. It's a good idea to have one cupboard or drawer full of safe distractions, such as plastic onctainers or wooden bowls, that a toddler can get to.
+* Leave small appliances unplugged, and store them as far out of reach as possible. Plastic bags and plastic wrap also need to be kept in a high place. When discarding plastic bags from dry cleaning, recycle them at the dry cleaner's or tie them into knots before tossing. Buy garbage cans with secure lids that kids can't open.
+
+Keeping Room Safe
+* Get safety gates to close off stairs or any room where you don't want the baby to go and you don't have a door to lock. Guards or gates are also needed to keep them away from fireplaces, wood-burning stoves, or space heaters.
+* One door lock that kids figure out quickly is the push button on bedroom and bathroom doors. For bathrooms, an adult-height bolt would be a better option for a house with young children. You won't have time to look for a bobby pin to unlock the door if your child slip in the bathtub.
+
+
+        Built-In Feature
+        * Remove one source of accidents on decks (raised nails) with hardware that allows you to fasten boards from below. (Decking, deck nailer, joist)
+        * Codes control spacing (often only 4 in.) between parts of stairs and railing so that children can't get caught between them (Baluster, spacing to code)
+        * Unlike standard sheet glass that breaks into razor-sharp shards, tempered safety glass breaks into pebble-like pieces (safety glass)
+
+        Openings
+        * Safety grates can prevent falls. Building code will not allow lock if the window is a potential fire-escape route.
+        * Safety gates can prevent accidents on stairs and wall off rooms. This model has mesh panels that won't trap children.
+        * Reduce the risk of accidents with landscaping tools and material by walling them off with a hinged lattice gate.
+
+        Soft Surfaces
+        * To reduce noise transmission through the floor and take the edge out of falls, install wall-to-wall carpet over a thick pad.
+        * This cushioned chair rail for a child's room has thick foam stapled around a strip of plywood and covered with fabric.
+        * On furniture where you can't create cushion surfaces, you can at least reduce hard edges using a roundover bit and router.
+
+        Hazardous Materials
+        * Where you can't remove all hazardous materials from children reach, lock up the cabinets that contain them (Safety Catch: U-Sharped Bar, Locking Clip)
+        * There are locks to fit every type of door and cabinet combination, including hasp locks that can't be opened with a key (Key Lock: hasp, hinge, cam)
+        * Where only minimal security is needed, this under-counter spring lock will keep a door from opening fully (Bar Lock: Countertop, shaft, catch)
+
+        Electricity
+        * Short cords are inconvenient on counter-top appliances, but they keep the wires from hanging within the reach of children
+        * To eliminate shock hazard when an electrical outlet is not in use, plug a plastic insulator cap into the receptacle.
+        * Required by code in many locations, circuit-breaker outlets (ground-fault circuit interrupters) reduce shock hazards.
+
+### ENVIRONMENTAL HAZARDS
+
+Bad Air & More
+* If you are a nonsmoker or allergic to dust, you can tell as soon as you walk into a room that these common pollutants are present. But some air pollutatns can be harder to identify: fumes from volatile organic compounds (VOCs) and high levels of carbon monoxide are prime examples.
+
+VOCs
+* VOCs are released as gases from many ordinary products, including wood finishes, paints, adhesives, rug and oven cleaners, dry-cleaning fluids, furnishings, and office equipment. Some (not all) VOCs have a distinct odor, and some (not all) products containing VOCs come with caution labels.
+* Health problems resulting from exposure to VOCs include skin rash, upper respiratory irration, nose bleed (from formaldehyde glues), headache, nausea, vomiting, fatigue, and dizziness. Because VOC emissions are greatest in new materials and gradually dissipate, symptoms are likely to be triggered during or shortly after remodeling and cleaning work.
+* At home, there are several things you can do to reduce your exposure. Meet or exceed label cautions for ventilation when using products that emit VOCs. Don't store opened containers of paint and other materials containing VOCs in the house. To reduce emissions from composite boards used in some cabinets, seal the interior surfaces with two coats of polyurethane.
+
+Carbon Monoxide
+* Carbon monoxide (CO) gas is made whenever fuels such as gas, oil, kerosene, wood, or charcoal are burned. A property used (and maintained) stove or heating appliance won't leak significant amount of the gas. But CO poisoning is tricky to detect, and the initial symptoms (dizziness, headache, nausea, shortness of breath) are easily mistaken for other illnesses. The best preventative measure is to have heating appliances inspected annually by a professional. CO detectors are widely available but should only be used as a backup for yearly maintenance. Performance of these detectors varies widely and because CO is colorless and odorless, it's easy to think the real thing may be a false alarm.
+
+##### Lead Paint
+* Many house paints made bfore 1978 contain lead, which is a threat to children and can cause permanent brain damage, behavioral problems, and other serious health problems. If you live in a pre-1978 home, you should contact the EPA National Lead Information Center (800-424-LEAD) or epa.gov/lead) for free information on testing and safety precautions and for guidelines on whether the paint should be left alone, covered, or removed.
+
+        *You can test existing paint for lead with a simple kit. Following instructions, scrape the surface, apply the activator, and wipe.
+        *The activator makes a liquid sample on the swab that you then apply to the test card, to find out the lead-content reading.
+
+##### Lead in Water
+* Sources of lead in drinking water include lead pipes (common until around 1930), brass faucets or fittings that contain some lead, or copper pipes soldered with material containing lead. If you suspect lead in your water, have the water tested. To reduce the lead you may be consuming, use cold water for consumption (because it doesn't sit in pipes for long), and run the tap 1 or 2 minutes before you drink You may have to replace old pipes.
+
+        * To take a sample of water for testing, first use the flame from a match to burn off impurities on the faucet head.
+        * Fill a small, clean container with a sample, which can be tested by some town health departments or a private lab.
+
+##### Radon
+* Radon (a colorless, odorless gas) is the second-leading cause of lung cancer. This naturally occurring gas comes from the ground, well water, and some building materials. Nearly one out of every 15 homes contains high levels. It's easy and inexpensive to test your home or well for radon. Indoor levels of 4 picocuries per liter or more need to be fixed. Contractors can install an air-pumping system that vents radon from the ground under your house to the outside (For more information, contact epa.gov/radon.)
+
+LIST
+Subslab Ventilation: Pipe, Grade, Rim Joist, To Fan
+
+        A radon test kit conists of a small canister that you leave in your living area. You mail it to a lab for results.
+
+##### Asbestos
+* Asbestos is often found as insulation and fire protection on pipes. You also may find asbestos in old cement roofing and siding shingles, insulation (in houses built between 1930 and 1950), walls and floors around wood-burning stoves, and hot-water or steam pipes in older houses. The safest solution is usually to leave it undisturbed--asbestos material in good shape won't release fibers. If you need to remove it, hire a state-licensed abatement contractor.
+
+        LIST
+        -Wrapping Asbestos
+        - 3-4'' DIA. Cast-Iron Pipe
+        - Duct Tape Seam
+        - Foil
+        - Asbesto
+
+        Asbesto was often used to insulate heating pipes in old homes. You should test a sample before deciding on removal.
+
+##### Gas
+* A natural- or propane-gas leak is detectable due to mercaptan, an additive in gas that has a rotten-egg smell. If you suspect a gas leak, the safest course is to leave the house immediately and report it to 911 and the utility's emergency in a gas-fired appliance but don't smell the aroma of a major leak, you can turn off the gas valve near the appliance or the main valve at the gas meter.
+
+        LIST
+        -Shutting off gas
+        -Pliers
+        -Shuttoff value handle
+        -Gas Meter
+
+        Specialized plug-in natural gas alarms can detect small amounts of leaking methane and propane in your house.
+
+
+### UNIVERSAL DESIGN
+
+UNIVERSAL DESIGN
+* Making homes accessible for disabled people was once considered an extra that added to the cost of building it. But the trend in residential design today is to include features that make a building accessible for a disabled person and easier and more convenient for anyone else, too. It's called accessible or universal design. Here are some of the basic principles that can be incorporated into new construction and remodeling projects.
+
+ENTRANCE & FLOOR LEVEL
+*  Even in single-story homes, level changes are common at the entrance becaues the floor level is generally higher than ground level. There are a few good ways to eliminate this barrier without sticking a wood ramp on the front of the house. One is to create a gradually bermed, or earth-ramped, entrance with landscaping timers.
+* In new construction, you can lower the foundation or floor level. Typically, the foundation is several inches aboveground; the first floor is a foot or so higher than that. But when building a home, you stop the foundation at grade and use a combination of pressure-treated plywood sheathing and a waterproofing barrier to prevent leaks at the critical transition between foundation and frame. Another way to reduce floor height is by creating a ledge in the top inside of the foundation equal to the depth of the floor framing. To reduce the chance of damage from wood rot if water seeps in, the joists can be set onto metal hangers attached to a pressure-treated ledger board bolted to the foundation.
+
+OTHER FEATURES
+* There are other universal-design alternatives to standard architectural details. For example, a round, easily grasped stairway banister makes a safer, more convenient handrail than the typical 2x6 wood cap piece that is too wide to hold onto firmly. Another design defect is common to by-passing closet doors and cabinets: inset pulls. These pulls put even more stress on finger joints than round knobs. Instead of applying the strength of your whole arm, these pulls focus all the stress on the ends of your fingers. D-shaped pulls with at least 1 and 1/2 inches of clearance to the door surface make the job easier.
+
+##### ACCESS
+* Hallways: 48'' min. (MY: between the opposite wall and the opening door's edge)
+* Ramps: Ramp 30' max, (-MY: length) 12'', 60'' min. slope 1% max
+* Railings: 42'' min, (-MY: wide), 30-32''
+
+### Kitchens
+* Stove Clearance: 21'' max. (-MY: depth) Front controls, buners staggered.
+* Sink Clearance: 21'' max (-MY: depth), 21'' min. and 34'' max 
+* Table Clearance: 30'' (-MY: width), 48''(-MY: as whole)
