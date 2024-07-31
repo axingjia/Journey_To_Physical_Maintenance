@@ -497,3 +497,113 @@ OTHER FEATURES
 * Stove Clearance: 21'' max. (-MY: depth) Front controls, buners staggered.
 * Sink Clearance: 21'' max (-MY: depth), 21'' min. and 34'' max 
 * Table Clearance: 30'' (-MY: width), 48''(-MY: as whole)
+
+
+# Chapter 3: Remodeling Guide
+
+        Planning
+        * Planning a Remodeling Job
+        * Design Professionals
+        * Do-It-Yourself Plans
+        * When to Call for Help
+        Hiring
+        * Management Options
+        * Hiring a Contractor
+        * Watching the Budget
+        Making Contracts
+        * Checking Estimates
+        * Contracts
+        * Starting & Completion Dates
+        * Payments
+        Supervising
+        * Following Codes
+        * Supervising a Project
+        * Changes & Extras
+        Dealing with Disputes
+        * Settling Disputes
+        * Material Substitutions
+        * Time Problems
+        * Resolving Disputes
+        * What is Green Remodeling?
+
+### Planning
+* When you're lounging in the new family room, finally free of whining saws and paint fumes, it may seem incredible that such a complicated remodeling project began on the back of a napkin. But that's the way many jobs start--with a simple sketch. The question is how to develop the idea into a plan that balances what you want, what you need, and what you can afford.
+* Not every homeowner is up to the task of developing home-improvement dreams into working blueprints. But the more information you gather and the more details you give a remodeling contractor, the more likely you are to get a reasonable version of what you want at a reasonable price. And that's the final measure of a successful project. The work may cost more and take longer than you imagined. But if you can transform the heart of your first sketch into long-awaited extra living space, you'll find that the hassles tend to fade.
+* There are some nightmare jobs. But talk to friends and neighbors who have lived through a major project, and you'll find that most report their own take of the same basic experience. They may grumble about the delays and disruptions--and the money, of course--but then they'll want to take you on a guided tour through the new addition. To reach that position, your ideas must be on paper in the form of measured drawings. You need them to get realistic estimates, to get a building permit, and to pin down construction details for your contractor. Although there are many variations, you have three basic options: hire a design professional, work with a design-build construction firm, or draw your own.
+
+        Every home is different, but most successful remodeling jobs follow a siilar course. Here is the process from a winter start to a fall finish, with pictures from a major overhaul.
+
+DESIGN PROFESSIONALS
+* Both interior designers and architects must meet standards and follow guidelines set by professional societies. They work for you and can represent your interests with workers and suppliers. They can come up with a plan, help you analyze estimates, select a contractor, and follow through with regular checkups on materials, schedules, payments, and job quality.
+* Although there are exceptions, interior designers, true to their title, are likely to give more attention to the surface than the structure, while architects take it in reverse. This built-in bias is reflected in their drawings: full-color perspectives from interior designers and measured blueprints from architects. That means an interior designer may be the best choice if you need a lot of ideas about remodeling an existing space, and an architect may be better choice if you need to reshape the building.
+* Despite some controversy about who can legally use the word "design" to describe their services, design-build firms are an attractive option because they offer a complete package. On a kitchen remodeling job, you may be able to view dozens of designs on a computer screen and get detailed plans, plus cabinets annd installation. Some firms have an architect or engineer on staff for more comprehensive jobs, while others work with code-approved plans that can be modified to suit your needs. Whatever the circumstance, you deal with one company instead of an array of design professionals and independent contractors. That's good, because one party is responsible for every phase of the job. But if problem develop, there is no intermediary to sort things out.
+
+DO-IT-YOURSELF PLANS
+* **It's a good idea to develop your ideas in detail, even if you turn to an architect or design-build firm to complete the final version. This preliminary planning will refine your best dieas and weed out the worse variations.** You can work from stock designs in plan books and, in some areas, use preapproved plans supplied by the building department for basic projects such as decks. Stealing ideas from the pages of shelter magazines that show materials and designs you like, and survey displays in local home centers. It helps to see materials firsthand instead of in a catalog where the scale can be deceiving.
+* **Sketch out a basic floor to scale on graph paper, and use models to approximate furniture--or use home-design computer software to work up your plans. Even basic programs allow you to try different furniture arrangements and change materials with the click of a mouse. But it pays to test your plan at full scale--for example, by laying out the lines of a new deck with stakes and strings. Seeing even the bare outline helps to guard against a chronic planning problem that can occur no matter who draws the plan--the underwhelming moment when the new area fills with people and furniture and seems smaller than the ample space you drew months ago on the back of a napkin.**
+
+WHEN TO CALL FOR HELP
+* Once you have plans for a remodeling project, you need to find contractors to carry them out--or maybe not. You can save money by handling part of the work yourself--**maybe 30 percent of the job price if you act as the general contractor of the project.** But you can run into pitfalls, too, mainly when you get in over your head on jobs that require skills you don't have. You may start with the best intentions but wind up getting in the way of pros who are accustomed to the daily regimen--and work weekdays when you're at that other job.
+* There are no set rules about which jobs to tackle and which to leave to the pros. Do-it-yourself skills, interests, and budgets vary so widely that you might do an excellent job on part of the project your neighbor wouldn't touch. But there are sensible guidelines you can apply. Number one is "if in doubt, don't." Don't plunge into a project unless you have a realistic idea of the tools, skills, time, and money involved. Then you caan make common-sense decisions, including the most important one: whether or not you can do the work safely.
+* So when you consider the array of jobs on a major remodeling project--from foundation work to roofing--the best approach is t oavoid work that is inherently dangerous. Naturally, that depends to some extent on your idea of danger. For one do-it-yourselfer, laying shingles on a low-slope roof may be a snap. But if you start sweating halfway up a ladder, even the simplest roof improvement can be hazardous. You don't need construction expertise to sort this out. There is a good reason painting is at the top of the do-it-yourself list and wiring is at the bottom: paint can't kill you.
+* You can't rule out everyday accidents. Some scrapes and bruises are inevitable when handle a lot of tools and building materials. But it's wise to steer clear of jobs where problems due to lack of experience could result in structural defects and serious injury.
+* As to structure, that means in most cases **you should leave foundations, framing, and similar work to the pros, and concentrate on finishing trades such as drywalling, trimming, and painting that use the structural systems for support**. Foul up on the surface and you may make a mess, but nothing is likely to collapse.
+* As to injury, that means in most cases **you should let pros handle mechanical systems and equipment--heating and cooling, electrical, and plumbing.** Don't take a shot at installing a new furnace that could burn down the house if it's installed incorrectly. Plumbing is a bit of a gray area because on some pipes, the worst you'll get from a mistake is a leak, and you can fix leaks--or call a plumber. But making the wrong kind of connection on other piping, such as gas lines and sewer lines, can have serious consequences.
+
+        A surprise extra: removing an old oil tank.
+
+        Blocks delivered for the foundation
+
+        The hole in the ground takes shape.
+
+# HIRING
+
+        Blocks rise, and the floor is ready to pour
+
+        The truck only crushed a few bushes.
+
+        First-floor framing--and the new porch.
+
+        It looks like the drawings--sort of.
+
+        At last: some big windows and a view.
+
+        There used to be a really nice lawn here.
+
+* If you don't know enough about a project to have a reasonable idea about its potential dangers and the crucial installation steps that prevent them, leave it alone. Also rule out installation work that could void a warranty and jobs that require special licenses or inspections. Removing asbestos is one good example; wiring a new addition is another. With the proper permits, you can pour a bump-out foundation and nail up framing on your own house, although a building inspector may pick your work apart. But in many areas there are jobs, such as installing a septic system and wiring, that won't be approved unless you are licensed to do the work.
+
+Management Options
+* If you decide to have others do most of the work, you may want to consider hiring a remodeling manager to monitor the job. **They have no standardized qualifications and no professional society, so finding one is often a matter of word of mouth.** Some provide supervision on the job site; others help you select materials and deal on your behalf with architects, designers, contractors, and even mortgage bankers. You may pay a flat fee or a percentage of the job price for what amounts to a hand-holding service provided by a manager who may be very helpful but doesn't design or build anything. But some homeowners need a friendly voice on the other end of the phone who will do some of their negotiating--someone who doesn't have a stake in the design or a hand in the construction.
+
+        You contractor doesn't want to hear...
+        "Youre' not eating dinner, are you?"
+        It's aggravating to be constantly on call, and hand-holding a client day and night, Saturdays and Sundays, even though the questions can wait a few hours and both of you are done with work for the day and at home with other things to do.
+
+* The next rung up from hiring a remodeling manager is managing--**acting as your own general contractor.** On the plus side, you can save at least some of the contractor's markup buying materials in bulk. However, you probably won't get the best price that suppliers reserve for repeat customers (year-round contractors), and you may not save anything on a small, one-time order.
+* **The most taxing part of being a general contractor is hiring and managing several subcontractors. To start with, you probably won't get their best price, either. They might trim down a bid for the general contractor who keeps them working job to job--and who knows where the excess is--but not for you. You will save the general contractor's salary, of course, but only if you have the time to spend on site and figure your time is free. Don't try to run a remodeling job from your other job over the phone unless you're clairvoyant. You need to be there to see what's happening and have enough general contruction knowledge to understand what you're seeing. You don't have to know as much about electricity as the electrician. But you will need to be familiar with the basics of every trade so you aren't taken advantage of, or simply stumped by conversation about the project.**
+* The best jobs to manage yourself are short in duration, relatively inexpensive--like adding new siding. Whole-house remodeling that involves plumbing, electrical, heating, cooling, and structural systems throughout the building are more difficult, **particularly kitchen and bathroom jobs that cram a lot of mechanical and finishing work into a small space.** As you hire more subs with different expertise, interests, and schedules, the job becomes exponentially more difficult to control.
+* You may save money when you're the boss, but you'll be shouldering a lot of responsbility. It can be a difficult spot to be in--when the buck stops with you, and it's your own buck.
+
+### Hiring a Contractor
+* If every homeowner with a remodeling job gets a top contractor who comes highly recommended, put in 10-hour days, and always finshes on time, then who hires all the other guys? And when the economy is strong, loan rates are low, and a lot of homeowners are remodeling, how can you snag these top contractors? The search can be time-consuming and frustratin, and many contractors you call may be unavailable.
+* **Locating the right contractor takes legwork: developing leads, tracking down referrals, verifying recommendations, conducting face-to-face interviews, and keeping track of the one who seemed so forthcoming and the one who rubbed you the wrong way.**
+* The ideal shortcut is to hire a contractor recommended by a trusted friend or neighbor who has just finished a project like the one you have in mind--a situation where you'll be able to find out about costs, schedules, attitudes, and see the results firsthand. Short of that ideal, the best bet is to leave a lot of time for the search and to start with the biggest possible pool of qualified contractors. You can get names from many sources that generally fall into two categories: **referrals and recommendations.** Referrals come from advertisements--for instance, the side of a truck or a card posted at the lumberyard. There is no screening involved; there are just names.
+* **Recommendations carry more weight than referrals because they include an evaluation--say, from a friend or neighbor, your home-owners' insurance agent, mortgage banker, real estate agent, or someone else in the housing business who knows who you want.**
+* Before you start weeding out candidates, also consider the Internet. In a typical Web search, you'll get lost in lists of contracting firms halfway across the country. But keep looking and eventually you will hit trade associations, such as the National Association of the Remodeling Industry (NARI, at www.nari.org), and a growing number of Internet-based contractor-referral services. Several online referral services are dead ends; either too new or too disorganized to use. You scroll through snappy-looking option screens (and ads to click on, of course), but when you finally start to zero in, it turns out that only a few states and countries can be searched--and yours is not among them.
+* But fully operational sites, such as wwww.improvenet.com, one of the alrgest referral services with a national database of 600,000 contractors, help to make a match. You submit the particulars of your job and receive a list of screened contractors that omits anyone who has been in business less than three years and does not have a clean legal and credit record.
+* The service is free to consumers, contractors pay for the referrals. It's a good way for them to get leads and screen out homeowners who aren't really serious about starting a project in the near future and are just shopping for ideas. a typical response, via email, may give you four local names within 48 hours. But there is no guarantee that these contractors will be agreeable, work for the price you have in mind, or produce high-quality results. All that is for you to discover.
+* By whatever method, gather as many names as you can, and make the basic checks with local consumer protection agencies and the Better Business Bureau to find out if the contractor has a license, plus a record that is free of consumer complaints.
+* Finally, the contractor must be available to do the job--but not immediately without a good explanation. You can'tbe the only one to find the guy. If he's good, a lot of people want him, and you may have to get in line.
+
+### Watching the Budget
+* Soliciting bids from remodeling, contractors is like shopping for any consumer service--just more dranw out and confusing. The main mystery is that even though the product--your project--is painstakingly defined with plans and specifications, everyone who looks at it sees a different price tag. **Few will be as low as the one you envision, and some will be so far from others that it will be hard to imagine the contractors are estimating the same job.**
+* Variation can stem from basics like the law of supply and demand, of course. When loan rates are low, the weather is warm, and alot of homeowners are looking for estimates, availability falls and prices rise. If you solicit a highly sought-after contractor who doesn't really need the work, the estimate may soar.
+
+        Your contractor doesn't want to hear...
+        "So what do you think about these nine kinds of tile?"
+        This syndrome occurs when clients in the thrall of a major remodeling project come to believe that their house is endlessly fascinating and fail to realize that rehashing every possible feature is like showing their most recent 200 baby pictures to a pediatrician.
+
+
+# MAKING CONTRACTS
+
+
